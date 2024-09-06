@@ -4,6 +4,14 @@
 
 ----
 
+## Contribute
+
+Feel free to open Issues/Discussions or provide PRs!
+
+A non-systemd (unprivileged) setup may be added later on. If you have input on such a setup => help is welcome.
+
+----
+
 ## Features / Config
 
 * Using a DKIM Key for all sender adresses
